@@ -1,1 +1,0 @@
-print("Name of Main module is : ",__name__)
